@@ -1,0 +1,50 @@
+@media screen and (max-width:576px){
+     .nav,
+    .team-continer,
+    .features{
+        flex-direction: column;
+    }
+    .nav ul{
+        flex-wrap: wrap;
+        gap: 40px;
+    }
+    .nav{
+        text-align: center;
+        gap: 20px;
+    }
+    .team-image{
+        grid-template-columns: repeat(1,1fr);
+    }
+   .team-continer{
+    flex-direction: column-reverse;
+    text-align: center;
+    padding: 20px;
+   }
+   .card{
+    width: 80%;
+   }
+   .content{
+    padding: 15px;
+   }
+   #button{
+    margin: 0;
+   }
+   .fact-heading{
+    text-align: center;
+    padding: 20px;
+   }
+   .faect-card-continer{
+    grid-template-columns: repeat(1,1fr);
+    gap: 20px;
+    justify-items: center;
+
+   }
+   .sponsors-heading{
+    padding: 20px;
+   }
+   .company{
+    grid-template-columns: repeat(1,1fr);
+    justify-items: center;
+    gap: 25px;
+}
+}
