@@ -2,11 +2,11 @@
 
 A modern, responsive portfolio website for **G3 Architect** — a brand new group of architects.
 
-![Website Preview](https://md-moynul.github.io/g3-architect-website/images/your-screenshot.jpg)  
-*(Add a nice screenshot here)*
+<img width='200' src="images/img/1.png" alt="">
+<br>
 ## 🚀 Live Demo
 
-<img width='80' src="images/img/1.png" alt="">
+[View Live Website](https://md-moynul.github.io/g3-architect-website/)
 
 
 ## 🌟 Features
