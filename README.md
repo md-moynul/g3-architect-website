@@ -2,7 +2,8 @@
 
 A modern, responsive portfolio website for **G3 Architect** — a brand new group of architects.
 
-<img width='800' src="images/img/1.png" alt="">
+<img width='500' src="images/img/1.png" alt="">
+<img width='500' src="images/img/2.png" alt="">
 <br>
 ## 🚀 Live Demo
 
